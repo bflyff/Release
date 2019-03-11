@@ -3,7 +3,7 @@
   <groupId>com.icetang</groupId>
   <artifactId>ezdimens_lib</artifactId>
   <versioning>
-    <release>1.0.5</release>
+    <release>1.0.5_lowlvl</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -11,7 +11,8 @@
       <version>1.0.3</version>
       <version>1.0.4</version>
       <version>1.0.5</version>
+      <version>1.0.5_lowlvl</version>
     </versions>
-    <lastUpdated>20190221055152</lastUpdated>
+    <lastUpdated>20190311021813</lastUpdated>
   </versioning>
 </metadata>
